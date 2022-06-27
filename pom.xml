@@ -36,7 +36,13 @@
 		<connection>scm:git:git@github.com:Tencent/spring-cloud-tencent.git</connection>
 		<developerConnection>scm:git:git@github.com:Tencent/spring-cloud-tencent.git</developerConnection>
 	</scm>
-
+	
+	<scm>
+		<url>https://github.com/Tencent/spring-cloud-tencent</url>
+		<connection>scm:git:git@github.com:Tencent/spring-cloud-tencent.git</connection>
+		<developerConnection>scm:git:git@github.com:Tencent/spring-cloud-tencent.git</developerConnection>
+	</scm>
+	
 	<modules>
 		<module>spring-cloud-tencent-commons</module>
 		<module>spring-cloud-tencent-polaris-context</module>
