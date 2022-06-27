@@ -106,3 +106,6 @@ The spring-cloud-tencent is licensed under the BSD 3-Clause License. Copyright a
 If you are interested in Spring Cloud Tencent, please follow our project, thank you very much.
 
 [![Stargazers over time](https://starchart.cc/Tencent/spring-cloud-tencent.svg)](https://starchart.cc/Tencent/spring-cloud-tencent)
+
+
+## It's my test for codebeat
